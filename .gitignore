@@ -1,0 +1,48 @@
+# Ignore simulations
+# *.vtp
+# *.pvd
+*.pkl
+__pycache__/
+
+# Ignore the build, lib and doc dirs
+build_cmake/*
+build_hlbfgs/*
+lib/*
+doc/*
+
+# Ignore the Xcode stuff
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Ignore eclipse stuff
+.settings/*
+.cproject
+.project
+
+# Ignore pycache files
+*.pyc
+
+# Ignore any executables
+# run/*
+bin/shell
+bin/*/shell
+
+# Ignore data directories
+# bin/*/
+
+# Ignore data files
+# *.dat
+
+# Ignore Mac specific files
+*.DS_Store
+
+# Ignore emacs files
+*~
+
+# Appcode shit
+.idea/*

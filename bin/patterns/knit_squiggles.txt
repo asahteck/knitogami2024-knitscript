@@ -1,0 +1,11 @@
+# 4 2
+K K K K K P P P P P P P P P P P P K K K K K K K
+K K K K K P P P P P P P P P P P P K K K K K K K
+K K K K K P P P P P P P P P P P P K K K K K K K
+K K K K K P P P P P P P P P P P P K K K K K K K
+K K K K K P P P P P P P P P P P P K K K K K K K
+P P P P P P P K K K K K K K K K K K K P P P P P
+P P P P P P P K K K K K K K K K K K K P P P P P
+P P P P P P P K K K K K K K K K K K K P P P P P
+P P P P P P P K K K K K K K K K K K K P P P P P
+P P P P P P P K K K K K K K K K K K K P P P P P
