@@ -30,15 +30,7 @@ int main(int argc,  const char ** argv)
 
     parser.initialize();
 
-    const std::string simCase = parser.parse<std::string>("-sim", "");
-
-    if(simCase == "knit") {
-        sim = new Sim_Knit(parser);
-    } else {
-        std::cout << "No valid sim case defined. Options are \n";
-        std::cout << "\t -sim knit\n";
-        helpers::catastrophe("sim case does not exist", __FILE__, __LINE__);
-    }
+    sim = new Sim_Knit(parser);
 
     sim->init();
     sim->run();
