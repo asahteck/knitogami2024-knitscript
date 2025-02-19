@@ -16,7 +16,8 @@ def parse_knit_file(filename):
     matrix = []
     for j in range(0, int(y_dim)):
         for line in lines:
-            row = [255 if char == 'P' else 0 for char in line.split() for i in range(0, int(x_dim))]
+            row = [255 if char == 'P' else 0 for char in line.split()]
+            row = row*int(x_dim)
             matrix.append(row)
 
     return np.array(matrix)
