@@ -1,0 +1,24 @@
+# 4 4
+P P P P P P K K K K K K
+K P P P P P P K K K K K
+K P P P P P P K K K K K
+K K P P P P P P K K K K
+K K P P P P P P K K K K
+K K K P P P P P P K K K
+K K K P P P P P P K K K
+K K K K P P P P P P K K
+K K K K P P P P P P K K
+K K K K K P P P P P P K
+K K K K K P P P P P P K
+K K K K K K P P P P P P
+K K K K K K P P P P P P
+K K K K K P P P P P P K
+K K K K K P P P P P P K
+K K K K P P P P P P K K
+K K K K P P P P P P K K
+K K K P P P P P P K K K
+K K K P P P P P P K K K
+K K P P P P P P K K K K
+K K P P P P P P K K K K
+K P P P P P P K K K K K
+K P P P P P P K K K K K
